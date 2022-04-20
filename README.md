@@ -137,7 +137,7 @@ For example,
 <br>
 
 ### *Results*
-First prototype `Schofield`.
+First prototype.
 
 <img src="./tutorial/schofield-1.png" width=60%>
 
