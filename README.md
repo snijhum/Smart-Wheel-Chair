@@ -141,6 +141,6 @@ First prototype.
 
 <img src="./tutorial/schofield-1.png" width=60%>
 
-https://drive.google.com/folderview?id=16udwIZslVOCimZPWJ80IxaibRk2XBu3L
+https://drive.google.com/drive/folders/1gYB2li1wmCzyNc5zTUUsbt-SgYqlr2lt?usp=sharing
 
 *Licensed under [MIT License](LICENSE).*
